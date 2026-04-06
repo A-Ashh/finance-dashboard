@@ -11,6 +11,13 @@
 ---
 
 ## 📸 Features
+<img width="1340" height="612" alt="image" src="https://github.com/user-attachments/assets/68cc114d-eb1f-4487-96e1-b7689c3f8464" />
+<img width="1043" height="364" alt="image" src="https://github.com/user-attachments/assets/ac016ae4-0082-447b-becd-17aee6241c86" />
+<img width="1325" height="602" alt="image" src="https://github.com/user-attachments/assets/e65b4a51-3c9e-45fd-b9b8-4d9ee060f2f3" />
+<img width="1338" height="603" alt="image" src="https://github.com/user-attachments/assets/70711b09-cbf5-45cf-8158-657d3dc0dc08" />
+<img width="1054" height="361" alt="image" src="https://github.com/user-attachments/assets/18fbbb95-263b-4f27-be9d-a5c788d44830" />
+
+
 
 ### 🏠 Dashboard Overview
 - Summary cards: Net Balance, Total Income, Total Expenses, Transaction Count
