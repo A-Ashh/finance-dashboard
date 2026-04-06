@@ -9,6 +9,15 @@
 > Run locally using the steps below.
 
 ---
+## 💡 Why Finova?
+
+This project was built to simulate a real-world fintech dashboard with:
+- Data visualization for financial insights  
+- Role-based access control (like real SaaS apps)  
+- Multi-language support for accessibility  
+- Clean UI/UX with performance-focused design  
+
+It demonstrates frontend engineering skills including state management, UI architecture, and performance optimization.
 
 ## 📸 Features
 <img width="1340" height="612" alt="image" src="https://github.com/user-attachments/assets/68cc114d-eb1f-4487-96e1-b7689c3f8464" />
@@ -118,6 +127,12 @@ npm run dev
 ```
 
 ---
+## 🌐 Deployment
+
+This project can be deployed easily using:
+
+- Vercel
+- Netlify
 
 ## 🧠 Approach
 
@@ -142,6 +157,14 @@ Roles are simulated on the frontend using a dropdown. The `role` state controls:
 - A "View Only" badge shown to Viewer role users
 
 ---
+## 🧠 Skills Demonstrated
+
+- React state management (`useState`, `useMemo`)
+- Data visualization (Recharts)
+- UI/UX design principles
+- Role-based access control
+- Multi-language implementation (i18n without libraries)
+- Performance optimization
 
 ## ✅ Assignment Requirements Checklist
 
