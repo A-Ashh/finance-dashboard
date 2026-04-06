@@ -5,7 +5,6 @@
 ---
 
 ## 🚀 Live Demo
-Deployment link
 🔗 [View Finova Dashboard](https://finance-dashboard-n640ymejq-aasthaagni2003-9524s-projects.vercel.app)
 
 > Experience the app live without any setup.
