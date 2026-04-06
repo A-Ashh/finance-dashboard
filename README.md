@@ -7,6 +7,7 @@
 ## 🚀 Live Demo
 
 > Run locally using the steps below.
+deployment link ---- https://finance-dashboard-n640ymejq-aasthaagni2003-9524s-projects.vercel.app
 
 ---
 ## 💡 Why Finova?
