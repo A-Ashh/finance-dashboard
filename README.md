@@ -1,13 +1,14 @@
 # Finova — Finance Dashboard UI
 
-> A clean, interactive finance dashboard built with React. Supports dark/light mode, multi-language UI (English, Hindi, Telugu, Tamil), role-based access control, and real-time transaction management.
+> A clean, interactive finance dashboard built with React. Features dark/light mode, multi-language UI (English, Hindi, Telugu, Tamil), role-based access control, and real-time transaction management.
 
 ---
 
 ## 🚀 Live Demo
+Deployment link
+🔗 [View Finova Dashboard](https://finance-dashboard-n640ymejq-aasthaagni2003-9524s-projects.vercel.app)
 
-> Run locally using the steps below.
-deployment link ---- https://finance-dashboard-n640ymejq-aasthaagni2003-9524s-projects.vercel.app
+> Experience the app live without any setup.
 
 ---
 ## 💡 Why Finova?
